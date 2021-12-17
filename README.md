@@ -1,2 +1,3 @@
-# Exercicio-Logica
- Treinando lógica de programação
+# Exercicio de Lógica de Programação
+
+Treinando lógica de programação com a linguagem Java
