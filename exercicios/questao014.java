@@ -3,7 +3,11 @@ package exercicios;
 import java.util.Scanner;
 
 /*
-Ler dois valores inteiros (considere que não serão lidos valores iguais) e escrever o maior deles
+    Ler dois valores e imprimir uma das três mensagens a seguir:
+
+    ‘Números iguais’, caso os números sejam iguais
+    ‘Primeiro valor é o maior’, caso o primeiro seja maior que o segundo;
+    ‘Segundo valor é o maior’, caso o segundo seja maior que o primeiro. 
 */
 public class questao014 {
     public static void main(String[] args) {
